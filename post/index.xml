@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git和Github使用</title>
+      <link>http://localhost:1313/post/git%E5%92%8Cgitgithub%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/git%E5%92%8Cgitgithub%E4%BD%BF%E7%94%A8/</guid>
+      <description>Git初始化配置 git config &amp;ndash;global user.name 你的英文名 git config &amp;ndash;global user.email 你的邮箱 git config &amp;ndash;global push.default simple git config &amp;ndash;global core.quotepath false git config &amp;ndash;global core.editor &amp;ldquo;code &amp;ndash;wait&amp;rdquo; git config &amp;ndash;global core.autocrlf input Git基本指令 git clone &amp;lt;仓库地址&amp;gt; 下载仓</description>
+    </item>
+    
+    <item>
+      <title>HTML常用标签</title>
+      <link>http://localhost:1313/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</guid>
+      <description>HTML常用标签 a标签的用法 herf属性 &amp;lt;a href=&amp;quot;//google.com&amp;quot;&amp;gt;网址&amp;lt;/a&amp;gt; &amp;lt;a hre</description>
+    </item>
+    
+    <item>
+      <title>HTML的起源</title>
+      <link>http://localhost:1313/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B01/</guid>
+      <description>HTML的起源 HTML的首个公开描述出现于一个名为“HTML标签”的文件中，由蒂姆·伯纳斯-李于1991年底提及。它描述18个元素，包括HT</description>
+    </item>
+    
+    <item>
+      <title>如何用hugo新建博客</title>
+      <link>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%96%B0%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%96%B0%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>一、安装初始化hugo 注意安装的版本和文件位置 echo blog/xxxx.github.io-creator hugo new site /xxxx.github.io-creator cd /xxxx.github.io-creator git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &amp;lsquo;theme = &amp;ldquo;ananke&amp;rdquo;&amp;rsquo; &amp;gt;&amp;gt; config.toml hugo new posts/xxxx.md hugo 二、创建仓库和连接仓库 创建:用户名.gith</description>
+    </item>
+    
+  </channel>
+</rss>
