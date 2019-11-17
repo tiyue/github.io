@@ -6,7 +6,7 @@
     <description>Recent content on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,7 +37,7 @@
     <item>
       <title>Posts</title>
       <link>http://localhost:1313/post/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/</guid>
       
